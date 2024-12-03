@@ -22,6 +22,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/app/u/buy-land/page.js", "src/components/MapComponent.tsx", "src/app/dashboard/analytics/Map.js"],
   "exclude": ["node_modules"]
 }
